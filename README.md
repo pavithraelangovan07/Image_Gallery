@@ -65,7 +65,7 @@ gallery.html
   </div>
 
   <footer>
-    <h3>Designed and Developed by M. Reshika</h3>
+    <h3>Designed and Developed by pavithra</h3>
   </footer>
 
   <!-- JavaScript for Interactivity -->
